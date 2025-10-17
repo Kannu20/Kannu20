@@ -1,6 +1,7 @@
+WELCOME TO MY PROFILE 👋,
 <img src="https://media.licdn.com/dms/image/v2/D5612AQE8CnLA3JYugQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721169884883?e=2147483647&v=beta&t=xbqKctcyC6Ewq7tAfl2sDZBChDtiZpOValLkP_n_4PQ" alt="" />
 
-WELCOME TO MY PROFILE 👋
+
 <h1 align="center">Hi 👋, I'm Kanishak Todwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
