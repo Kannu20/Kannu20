@@ -19,7 +19,7 @@ WELCOME TO MY PROFILE 👋,
 
 - 📫 How to reach me **kannutodwal@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-web-lake-mu.vercel.app/](https://portfolio-web-lake-mu.vercel.app/)
+- 📄 Know about my experiences [https://portfolioweb-brown.vercel.app/](https://portfolioweb-brown.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
