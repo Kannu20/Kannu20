@@ -15,11 +15,11 @@ WELCOME TO MY PROFILE 👋,
 
 - 🌱 I’m currently learning **DSA , MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kannu20](https://github.com/Kannu20)
+- 👨‍💻 All of my projects are available at [https://github.com/Kannu20](https://myportfolio-eight-murex-81.vercel.app/)
 
 - 📫 How to reach me **kannutodwal@gmail.com**
 
-- 📄 Know about my experiences [https://portfolioweb-brown.vercel.app/](https://portfolioweb-brown.vercel.app/)
+- 📄 Know about my experiences [https://portfolioweb-brown.vercel.app/](https://myportfolio-eight-murex-81.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
