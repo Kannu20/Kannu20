@@ -18,13 +18,11 @@
 
 - 📫 How to reach me **kannutodwal@gmail.com**
 
-- ⚡ Fun fact **I Think i am funny**
-
 <h3 align="left" style="color: #FF4500;">🔗 Let's Connect!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nirmal todwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishak todwal" height="30" width="40" /></a>
-<a href="https://instagram.com/nirmal_todwal_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmal_todwal_7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kanishak-todwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishak todwal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kanishak020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmal_todwal_7" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/123kannu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
     <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/nirmaltodwal566" target="_blank">
     <img align="center"
