@@ -138,7 +138,7 @@ Feel free to reach out if you want to collaborate on exciting projects 💡 or d
 ---
 
   <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nirmaltodwal7&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nirmaltodwal7&theme=radical" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nirmaltodwal7&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kannu20&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kannu20&theme=radical" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kannu20&layout=compact&theme=radical" height="170" />
 </p>
