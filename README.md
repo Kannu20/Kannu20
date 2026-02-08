@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirmaltodwal7&label=Profile%20views&color=0e75b6&style=flat" alt="nirmaltodwal7" /> </p>
 
-- 👨‍💻 All of my projects are available at (https://linktr.ee/nirmal_todwal_7?utm_source=linktree_admin_share)
+- 👨‍💻 All of my projects are available at (https://myportfolio-eight-murex-81.vercel.app/)
 
 - 📫 How to reach me **kannutodwal@gmail.com**
 
@@ -22,8 +22,7 @@
 
 <h3 align="left" style="color: #FF4500;">🔗 Let's Connect!</h3>
 <p align="left">
-<a href="https://twitter.com/@nirmaltodwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nirmaltodwal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nirmal todwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal todwal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nirmal todwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishak todwal" height="30" width="40" /></a>
 <a href="https://instagram.com/nirmal_todwal_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmal_todwal_7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
     <!-- HackerRank -->
@@ -116,7 +115,7 @@
 ---
 
 ### 🌟 About Me 🌟
-I am a passionate and motivated Software Engineer specializing in Java backend development and modern full-stack technologies. Currently pursuing my B.Tech in Information Technology at Poornima College of Engineering, Jaipur, I combine strong academic foundations with practical internship experience to build scalable, secure, and user-centric applications. I am deeply interested in clean architecture, RESTful API development, system design, and cloud-native solutions.
+I am a passionate and motivated Software Engineer specializing in Java backend development and modern full-stack technologies. Currently pursuing my B.Tech in CS(AI) at Poornima College of Engineering, Jaipur, I combine strong academic foundations with practical internship experience to build scalable, secure, and user-centric applications. I am deeply interested in clean architecture, RESTful API development, system design, and cloud-native solutions.
 
 Through my internship experiences, I have worked on real-world projects involving React.js, Node.js, Express, MongoDB, and Java-based backend systems. I have developed secure APIs, optimized database performance, and collaborated within Agile teams to deliver production-ready applications. These experiences have strengthened my problem-solving skills and helped me understand how to design and maintain efficient software systems.
 
@@ -127,14 +126,14 @@ My technical expertise includes Java, Spring Boot, Hibernate, Node.js, React.js,
 I am continuously learning and striving to grow in backend engineering, microservices architecture, and cloud technologies. I am actively seeking opportunities where I can contribute to meaningful projects, work in a mentorship-driven engineering culture, and further strengthen my technical and problem-solving capabilities.
 
 ### Education 🎓:
-**Currently pursuing B.Tech in Information Technology (3rd Year) at Poornima College of Engineering, Jaipur.**
+**Currently pursuing B.Tech in CS(AI) (4th Year) at Poornima College of Engineering, Jaipur.**
 
 ---
 ### Let's Connect 🤝:
 Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **DevOps** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
 
 ---
-![GitHub GIF](https://github.com/nirmaltodwal7/GIF-2/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+![GitHub GIF](https://github.com/Kannu20/GIF-2/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 ---
 
