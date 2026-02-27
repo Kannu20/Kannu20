@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/kanishak020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmal_todwal_7" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/123kannu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
     <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/nirmaltodwal566" target="_blank">
+  <a href="https://www.hackerrank.com/profile/kannutodwal" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
          alt="HackerRank"
