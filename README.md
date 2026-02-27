@@ -1,6 +1,6 @@
 ![logo](https://github.com/nirmaltodwal7/GIF/blob/main/githubgif.gif)
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" alt="DevOps Badge" />
+  <img src="https://img.shields.io/badge/Data Science-Learning-brightgreen" alt="Data Science Badge" />
   <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
   <img src="https://img.shields.io/badge/Next.js-React-blue" alt="Next.js Badge" />
   <img src="https://img.shields.io/badge/DSA-Data_Structures-ff4500" alt="DSA Badge" />
@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/MERN-Full%20Stack-ff69b4" />
   <img src="https://img.shields.io/badge/Next.js-Production%20Apps-black" />
   <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange" />
-  <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Data Science-Learning-brightgreen" />
 </p>
 
 
@@ -108,7 +108,7 @@ I am continuously learning and striving to grow in backend engineering, microser
 
 ---
 ### Let's Connect 🤝:
-Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **DevOps** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **Data Science** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
 
 ---
 ![GitHub GIF](https://github.com/nirmaltodwal7/GIF-2/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
