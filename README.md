@@ -1,122 +1,342 @@
-![logo](https://github.com/nirmaltodwal7/GIF/blob/main/githubgif.gif)
-<p align="center">
-  <img src="https://img.shields.io/badge/Data Science-Learning-brightgreen" alt="Data Science Badge" />
-  <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
-  <img src="https://img.shields.io/badge/Next.js-React-blue" alt="Next.js Badge" />
-  <img src="https://img.shields.io/badge/DSA-Data_Structures-ff4500" alt="DSA Badge" />
-</p>
-<h1 align="center">Hi 👋, I'm Kanishak Todwal</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=230&section=header&text=Kanishak%20Todwal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=62&descSize=18" width="100%"/>
 
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=640&lines=Building+Full+Stack+Web+Applications+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Solving+DSA+Problems+Daily+%F0%9F%A7%A9;B.Tech+CS+(AI)+%40+Poornima+College+%F0%9F%8E%93;Open+to+Exciting+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+</a>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br/><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kannu20&label=Profile%20views&color=0e75b6&style=flat" alt="Kannu20" /> </p>
-
-- 👨‍💻 All of my projects are available at (https://myportfolio-eight-murex-81.vercel.app/)
-
-- 📫 How to reach me **kannutodwal@gmail.com**
-
-<h3 align="left" style="color: #FF4500;">🔗 Let's Connect!</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kanishak-todwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishak todwal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kanishak020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmal_todwal_7" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/123kannu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-    <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/kannutodwal" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-         alt="HackerRank"
-         height="30"
-         width="40" />
-  </a>
-
-  <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/profile/kannut726w?from=explore" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-         alt="GeeksforGeeks"
-         height="30"
-         width="40" />
-  </a>
+<!-- Profile Views + Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Kannu20&label=Profile%20Views&color=6E57F7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Kannu20?label=Followers&style=for-the-badge&color=6E57F7" alt="Followers"/>
 </p>
 
+</div>
+
 ---
 
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-<a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
-<a href="https://postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+```yaml
+Name     : Kanishak Todwal
+Role     : Full Stack Developer
+College  : Poornima College of Engineering, Jaipur
+Degree   : B.Tech — CS (Artificial Intelligence), 4th Year
+Email    : kannutodwal@gmail.com
+Portfolio: myportfolio-eight-murex-81.vercel.app
+Focus    : Backend Engineering · System Design · Cloud
+
+Interests:
+  - Full Stack Development (MERN / Next.js)
+  - AI-Powered Application Building
+  - RESTful API & Microservices Architecture
+  - Data Structures & Algorithms
+  - Data Science & Machine Learning
+
+Currently:
+  - 🔭 Building AI-integrated full-stack projects
+  - 🌱 Learning Microservices & Cloud (AWS)
+  - 💡 Open to internships & collaborations
+```
+
+<br clear="right"/>
+
+---
+
+## 🚀 What I Bring to the Table
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/60/code.png"/><br/>
+  <b>Clean Code</b><br/>
+  <sub>Scalable, maintainable, production-ready architecture</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/60/artificial-intelligence.png"/><br/>
+  <b>AI Integration</b><br/>
+  <sub>Building smart apps with real AI-powered features</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/60/api-settings.png"/><br/>
+  <b>API Development</b><br/>
+  <sub>Secure RESTful APIs with authentication & RBAC</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/60/system-task.png"/><br/>
+  <b>System Design</b><br/>
+  <sub>Designing scalable, efficient backend systems</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Project%20Management-Agile%20Delivery-blueviolet" />
-  <img src="https://img.shields.io/badge/MERN-Full%20Stack-ff69b4" />
-  <img src="https://img.shields.io/badge/Next.js-Production%20Apps-black" />
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-orange" />
-  <img src="https://img.shields.io/badge/Data Science-Learning-brightgreen" />
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-
----
-
-### 🌟 About Me 🌟
-I am a passionate and motivated Software Engineer specializing in Java backend development and modern full-stack technologies. Currently pursuing my B.Tech in CS(AI) at Poornima College of Engineering, Jaipur, I combine strong academic foundations with practical internship experience to build scalable, secure, and user-centric applications. I am deeply interested in clean architecture, RESTful API development, system design, and cloud-native solutions.
-
-Through my internship experiences, I have worked on real-world projects involving React.js, Node.js, Express, MongoDB, and Java-based backend systems. I have developed secure APIs, optimized database performance, and collaborated within Agile teams to deliver production-ready applications. These experiences have strengthened my problem-solving skills and helped me understand how to design and maintain efficient software systems.
-
-I have built impactful projects including an AI-powered Government Fund Management System with fraud prevention mechanisms, an online therapy platform with real-time features, and a tourism portal with discovery and booking functionality. These projects reflect my ability to integrate frontend, backend, authentication systems, and cloud services into cohesive and scalable solutions.
-
-My technical expertise includes Java, Spring Boot, Hibernate, Node.js, React.js, Next.js, MySQL, MongoDB, Firebase, and cloud platforms. I am comfortable working across the full development lifecycle — from planning and designing architectures to deployment and optimization.
-
-I am continuously learning and striving to grow in backend engineering, microservices architecture, and cloud technologies. I am actively seeking opportunities where I can contribute to meaningful projects, work in a mentorship-driven engineering culture, and further strengthen my technical and problem-solving capabilities.
-
-### Education 🎓:
-**Currently pursuing B.Tech in CS(AI) (4th Year) at Poornima College of Engineering, Jaipur.**
-
----
-### Let's Connect 🤝:
-Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **Data Science** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
-
----
-![GitHub GIF](https://github.com/nirmaltodwal7/GIF-2/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
-
----
-
-  <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kannu20&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kannu20&theme=radical" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kannu20&layout=compact&theme=radical" height="170" />
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 </p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🎨 Design & IDE
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ AI Government Fund Management
+> AI-powered fund management system with intelligent fraud prevention and real-time analytics.
+
+**Stack:** `Next.js` `Node.js` `MongoDB` `AI/ML` `Firebase`
+
+✅ Fraud detection mechanisms  
+✅ Role-based access control  
+✅ Real-time fund tracking dashboard  
+✅ Audit logs & admin oversight  
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kannu20)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Online Therapy Platform
+> A real-time mental health consultation platform connecting therapists and patients seamlessly.
+
+**Stack:** `React.js` `Node.js` `Socket.io` `MongoDB` `JWT`
+
+✅ Real-time chat & session booking  
+✅ Therapist-patient matching system  
+✅ Secure authentication & privacy  
+✅ Progress tracking dashboard  
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kannu20)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Tourism Discovery Portal
+> A full-stack tourism platform for discovering destinations, planning trips, and making bookings.
+
+**Stack:** `Next.js` `Express.js` `MongoDB` `TailwindCSS`
+
+✅ Destination discovery & filtering  
+✅ Online booking & availability system  
+✅ Interactive maps integration  
+✅ User reviews & ratings  
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kannu20)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 CareerCompass
+> AI-driven career intelligence platform helping students track placement readiness.
+
+**Stack:** `Next.js` `Node.js` `MongoDB` `Firebase` `Chart.js`
+
+✅ Placement readiness score engine  
+✅ Skill radar & performance charts  
+✅ Multi-role system (Student / Mentor / TPO)  
+✅ AI-powered improvement suggestions  
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kannu20)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Experience
+
+```
+🏢 Full Stack Developer Intern
+   ├── Worked on real-world React.js + Node.js + Express + MongoDB projects
+   ├── Developed and secured RESTful APIs with JWT authentication
+   ├── Optimized MongoDB query performance for production workloads
+   └── Delivered features within Agile sprint cycles
+
+🛠️ Project Highlights
+   ├── Built 4+ full-stack projects integrating frontend, backend, auth & cloud
+   ├── Integrated AI/ML APIs into web apps for smart features
+   └── Delivered end-to-end systems — from architecture to deployment
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kannu20&show_icons=true&theme=tokyonight&border_radius=12&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kannu20&layout=compact&theme=tokyonight&border_radius=12&langs_count=8" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kannu20&theme=tokyonight&border_radius=12" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kannu20&theme=tokyo-night&border_radius=12" width="95%"/>
+
+</div>
+
+---
+
+## 🏅 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/123kannu/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/profile/kannutodwal" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="https://www.geeksforgeeks.org/profile/kannut726w?from=explore" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+```
+🧩 Active on  → LeetCode · HackerRank · GeeksforGeeks
+🏆 Topics     → Arrays · Trees · Graphs · DP · Recursion · OOP
+📚 Currently  → Advanced System Design + Microservices + Cloud (AWS)
+```
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| 🏫 Institution | 📖 Degree | 📅 Duration | 🏆 Focus |
+|:---|:---|:---:|:---|
+| Poornima College of Engineering, Jaipur | B.Tech — CS (Artificial Intelligence) | 2021 – 2025 | AI · Full Stack · System Design |
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kanishak-todwal/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/kanishak020/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/123kannu/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/profile/kannutodwal" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+<a href="https://www.geeksforgeeks.org/profile/kannut726w?from=explore" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="https://myportfolio-eight-murex-81.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="mailto:kannutodwal@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 My Philosophy
+
+> *"Code is not just about solving problems —*
+> *it's about creating solutions that genuinely make life better."*
+
+<br/>
+
+**💡 Always Learning &nbsp;·&nbsp; 🚀 Always Building &nbsp;·&nbsp; 🤝 Always Open to Collaborate**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=120&section=footer" width="100%"/>
+
+</div>
