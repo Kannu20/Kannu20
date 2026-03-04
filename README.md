@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=640&lines=Building+Full+Stack+Web+Applications+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Solving+DSA+Problems+Daily+%F0%9F%A7%A9;B.Tech+CS+(AI)+%40+Poornima+College+%F0%9F%8E%93;Open+to+Exciting+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=640&lines=Building+Full+Stack+Web+Applications+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Solving+DSA+Problems+Daily+%F0%9F%A7%A9;B.Tech+CS+fe(AI)+%40+Poornima+College+%F0%9F%8E%93;Open+to+Exciting+Opportunities+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -144,82 +144,6 @@ Currently:
 </div>
 
 ---
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏛️ AI Government Fund Management
-> AI-powered fund management system with intelligent fraud prevention and real-time analytics.
-
-**Stack:** `Next.js` `Node.js` `MongoDB` `AI/ML` `Firebase`
-
-✅ Fraud detection mechanisms  
-✅ Role-based access control  
-✅ Real-time fund tracking dashboard  
-✅ Audit logs & admin oversight  
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kannu20)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Online Therapy Platform
-> A real-time mental health consultation platform connecting therapists and patients seamlessly.
-
-**Stack:** `React.js` `Node.js` `Socket.io` `MongoDB` `JWT`
-
-✅ Real-time chat & session booking  
-✅ Therapist-patient matching system  
-✅ Secure authentication & privacy  
-✅ Progress tracking dashboard  
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kannu20)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 Tourism Discovery Portal
-> A full-stack tourism platform for discovering destinations, planning trips, and making bookings.
-
-**Stack:** `Next.js` `Express.js` `MongoDB` `TailwindCSS`
-
-✅ Destination discovery & filtering  
-✅ Online booking & availability system  
-✅ Interactive maps integration  
-✅ User reviews & ratings  
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kannu20)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 CareerCompass
-> AI-driven career intelligence platform helping students track placement readiness.
-
-**Stack:** `Next.js` `Node.js` `MongoDB` `Firebase` `Chart.js`
-
-✅ Placement readiness score engine  
-✅ Skill radar & performance charts  
-✅ Multi-role system (Student / Mentor / TPO)  
-✅ AI-powered improvement suggestions  
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Kannu20)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 💼 Experience
 
 ```
@@ -288,7 +212,7 @@ Currently:
 
 | 🏫 Institution | 📖 Degree | 📅 Duration | 🏆 Focus |
 |:---|:---|:---:|:---|
-| Poornima College of Engineering, Jaipur | B.Tech — CS (Artificial Intelligence) | 2021 – 2025 | AI · Full Stack · System Design |
+| Poornima College of Engineering, Jaipur | B.Tech — CS (Artificial Intelligence) | 2022 – 2026 | AI · Full Stack · System Design |
 
 </div>
 
