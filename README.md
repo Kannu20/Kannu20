@@ -27,7 +27,7 @@
 Name     : Kanishak Todwal
 Role     : Full Stack Developer
 College  : Poornima College of Engineering, Jaipur
-Degree   : B.Tech — CS (Artificial Intelligence), 4th Year
+Degree   : B.Tech — CS (Artificial Intelligence)
 Email    : kannutodwal@gmail.com
 Portfolio: myportfolio-eight-murex-81.vercel.app
 Focus    : Backend Engineering · System Design · Cloud
